@@ -1,3 +1,19 @@
+body{
+    background-image: url('images/hatter.jpg');
+    background-size: cover;
+}
+
+.container{
+    background-color: white;
+    margin: 15px auto;
+    padding: 15px;
+}
+
 .divek{
     margin: 25px 0 35px 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
 }
