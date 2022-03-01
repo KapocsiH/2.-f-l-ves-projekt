@@ -1,6 +1,5 @@
 body{
-    background-image: url('images/hatter.jpg');
-    background-size: cover;
+    background-color: grey;
 }
 
 .container{
@@ -14,6 +13,11 @@ body{
 }
 
 a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
     color: white;
     text-decoration: none;
 }
